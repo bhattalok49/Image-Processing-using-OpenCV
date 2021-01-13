@@ -5,11 +5,9 @@
 // Problem Statement: To rotate the image on a specific angle entered by user.
 // -----------------------------------------------------------------------------
 
-// Name: Sanjay Bhatt
+// Name: Alok Bhatt
 // Course: B.Tech. (CSE)
-// Semester: 4th
-// Section: A
-// University Roll No: 2014834
+// University Roll No: 2014548
 // -----------------------------------------------------------------------------
 
 #include <opencv2/core/core.hpp>
